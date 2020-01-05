@@ -13,7 +13,7 @@
         "laravel/framework": "5.8.*",
         "laravel/socialite": "^4.0",
         "laravel/tinker": "^1.0",
-        "revolution/laravel-google-searchconsole": "^1.0"
+        "revolution/laravel-google-searchconsole": "^2.0"
     },
     "require-dev": {
         "beyondcode/laravel-dump-server": "^1.0",
